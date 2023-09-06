@@ -1,4 +1,4 @@
-package com.shopee.sqlparser.exceptions;
+package com.winter.sqlparser;
 
 public class SqlParseException extends Exception {
 
